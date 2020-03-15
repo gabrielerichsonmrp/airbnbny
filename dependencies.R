@@ -1,0 +1,22 @@
+library(tidyverse)
+library(glue)
+library(plotly)
+library(ggthemes)
+library(scales)
+library(lubridate)
+library(echarts4r)
+library(highcharter) 
+library(stringr)
+library(shiny)
+library(shinyBS)
+library(shinycssloaders)
+library(shinydashboard)
+library(shinyjs)
+library(shinyWidgets)
+library(leaflet)
+library(RColorBrewer)
+#library(lattice)
+options(scipen = 123)
+
+
+

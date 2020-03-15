@@ -1,0 +1,5 @@
+https://www.kaggle.com/josipdomazet/mining-nyc-airbnb-data-using-r#loading-packages-data
+https://www.kaggle.com/kmenjo/airbnb-simple-analysis
+http://insideairbnb.com/amsterdam/#
+
+leaflet shinny integration: http://rstudio.github.io/leaflet/shiny.html

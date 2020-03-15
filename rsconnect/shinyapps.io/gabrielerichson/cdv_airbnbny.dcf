@@ -1,0 +1,13 @@
+name: cdv_airbnbny
+title:
+username:
+account: gabrielerichson
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1784312
+bundleId: 2787965
+url: https://gabrielerichson.shinyapps.io/cdv_airbnbny/
+when: 1581322937.4775
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: REFERENSI.txt|www/shinydashboard.css
