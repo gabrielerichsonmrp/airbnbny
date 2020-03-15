@@ -2,7 +2,7 @@
 
 
 **Intro** <br>
-This is data visualization project about New York City Airbnb in 2019.I build this app just for to learn how to make dashboard visualization using Shiny Dashboard in R Studio. The data that i used is downloaded from kaggle [New York City Airbnb Open Data](https://www.kaggle.com/lava18/google-play-store-apps), So Thank you for this data. I Have publish this source into github, so please if you want to use it.
+This is a data visualization project about Airbnb New York in 2019. I made this application only to learn how to create dashboard visualizations using Shiny Dashboard at R Studio. The data that I used was downloaded from Kaggle: [New York City Airbnb Open Data](https://www.kaggle.com/lava18/google-play-store-apps). I have published this source on github, so feel free if you want to use it.
 
 
 <br>
